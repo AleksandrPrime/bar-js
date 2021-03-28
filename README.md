@@ -8,6 +8,7 @@ Ligthweight, configurable and simple barchart library on JavaScript
 ## Description
 bar.js is a Canvas based simple JavaScript Bar Chart Library to provide a configurable, lightweght and dependency-free
 experience.
+[Link to example page](https://aleksandrprime.github.io/bar-js/example/)
 
 ![](https://github.com/AleksandrPrime/bar-js/raw/main/bar.png)
 
