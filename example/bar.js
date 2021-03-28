@@ -1,12 +1,12 @@
 /*
     * bar.js
     * simple, elegant bar chart library
-    * {date} - version 1.0
-    * {url}
+    * 28.03.2021 - version 1.0
+    * https://github.com/AleksandrPrime/bar-js
     *
-    * Copyright 2021 AlexPrime
-    *
-    *
+    * Copyright 2021 AlexPrime <pochtarev.dev@gmail.com>
+    * Relesed under the MIT License
+    * https://github.com/AleksandrPrime/bar-js/blob/main/LICENCE.md
     *
 */
 
